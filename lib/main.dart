@@ -119,7 +119,7 @@
   
 //   AIService({required String apiKey})
 //       : model = GenerativeModel(
-//           model: 'gemini-pro',
+//           model: 'gemini-2.0-flash',
 //           apiKey: apiKey,
 //           generationConfig: GenerationConfig(
 //             temperature: 0.9,
